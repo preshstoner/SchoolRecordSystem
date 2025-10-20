@@ -43,7 +43,7 @@ CREATE TABLE Students (
 Clone the repository:
 
 bash
-git clone [https://github.com/your-username/student-registration-app.git](https://github.com/preshstoner/SchoolRecordSystem.git)
+git clone (https://github.com/preshstoner/SchoolRecordSystem.git)
 Open the solution in Visual Studio.
 
 Install the MySQL Connector:
